@@ -36,7 +36,7 @@ class _CashierPageState extends State<CashierPage> with SingleTickerProviderStat
       'category': 'Minuman',
       'stock': 20,
       'price': 10000,
-      'image': 'assets/images/kopihitam.jpg',
+      'image': 'assets/images/kopihitam.jfif',
     },
   ];
 
